@@ -1,0 +1,25 @@
+String Operations
+
+1. Write a function to validate a string as a valid IP address.
+2. Write a function to extract all substrings between two specified strings.
+3. Write a function to find the longest palindromic substring in a string.
+4. Write a function to compress a string using run-length encoding.
+5. Write a function to decompress a string compressed with run-length encoding.
+6. Write a function to find the shortest substring that contains all characters of a given string.
+7. Write a function to validate a string as a valid email address using a regular expression.
+8. Write a function to extract all strings between two specified strings, including nested occurrences.
+9. Write a function to find the longest substring without repeating characters.
+10. Write a function to convert a string to camelCase.
+
+Array Operations
+
+1. Write a function to find the maximum sum of a subarray within an array.
+2. Write a function to find the minimum window that contains all elements of a given array.
+3. Write a function to rotate a matrix by 90 degrees clockwise.
+4. Write a function to find the longest increasing subsequence in an array.
+5. Write a function to find the shortest path between two nodes in a graph represented as an adjacency matrix.
+6. Write a function to find the number of ways to partition an array into three equal sum subsets.
+7. Write a function to find the maximum product of a subarray within an array.
+8. Write a function to find the minimum number of operations to transform one array into another.
+9. Write a function to find the longest common subsequence between two arrays.
+10. Write a function to find the number of ways to climb n stairs with 1, 2, or 3 steps at a time.

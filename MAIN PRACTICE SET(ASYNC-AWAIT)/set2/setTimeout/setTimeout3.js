@@ -1,0 +1,1 @@
+// 3. Can you write an example of using setTimeout with a conditional statement and a loop?

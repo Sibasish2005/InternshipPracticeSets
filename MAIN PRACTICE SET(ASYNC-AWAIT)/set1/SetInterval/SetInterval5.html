@@ -1,0 +1,32 @@
+<!-- 5. Can you explain the concept of animation using setInterval? -->
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+       #box{
+            background: #010101;
+            height: 100px;
+            width: 100px;
+            left: 0;
+            position: absolute;
+        }
+    </style>
+ </head>
+ <body>
+    <div id="box"></div>
+ </body>
+ <script>
+ let position = 0;
+ const box = document.querySelector("#box");
+  const intervalId = setInterval(() => {
+    position = position + 5;
+    box.style.left = position + "px" ;
+    if (position>= 300){
+       clearInterval(intervalId);
+    }
+  }, 100);
+ </script>
+ </html>

@@ -1,0 +1,1 @@
+// 10. How does a callback function work with a generator function and async iteration?

@@ -1,0 +1,1 @@
+// 8. How does a callback function handle multiple callbacks with different priorities?

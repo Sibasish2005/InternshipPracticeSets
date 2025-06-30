@@ -1,0 +1,1 @@
+// 5. Can you explain the concept of throttling using setTimeout?
